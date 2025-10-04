@@ -1,5 +1,5 @@
 import { useGSAP } from '@gsap/react'
-import { cocktailLists, mockTailLists } from '../constants/index'
+import { cocktailLists, mockTailLists } from '../../constants/index'
 import gsap from 'gsap'
 
 const Cocktails = () => {
